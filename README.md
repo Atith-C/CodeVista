@@ -1,4 +1,4 @@
-# Code Editor
+# CodeVista
 
 A responsive code editor web application built with React, featuring dedicated sections for HTML, CSS, and JavaScript with real-time preview functionality.
 
